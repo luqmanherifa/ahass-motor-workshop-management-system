@@ -1,5 +1,4 @@
 # Motocraft: Motorcycle Workshop App
-
 *Sorry, the complete code of the original repository is private.*
 
 ## Display
