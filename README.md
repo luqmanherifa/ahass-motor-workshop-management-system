@@ -3,15 +3,25 @@
 *Sorry, the complete code of the original repository is private. :(*
 
 ## Display
+
   - Interface
+    
 ![Display](https://raw.githubusercontent.com/luqmanherifa/luqman-herifa-personal-portfolio-v2/main/public/works/motocraft.png)
+
   - Home
+    
 ![Display](https://raw.githubusercontent.com/luqmanherifa/luqman-herifa-personal-portfolio-v2/main/public/works/detail/motocrat01.png)
+
   - Pages
+    
 ![Display](https://raw.githubusercontent.com/luqmanherifa/luqman-herifa-personal-portfolio-v2/main/public/works/detail/motocrat02.png)
+
   - Dashboard
+    
 ![Display](https://raw.githubusercontent.com/luqmanherifa/luqman-herifa-personal-portfolio-v2/main/public/works/detail/motocrat03.png)
+
   - Mobile
+    
 ![Display](https://raw.githubusercontent.com/luqmanherifa/luqman-herifa-personal-portfolio-v2/main/public/works/detail/motocrat04.png)
 
 ## Software
