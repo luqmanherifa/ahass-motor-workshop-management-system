@@ -2,27 +2,27 @@
 
 *Sorry, the complete code of the original repository is private. :(*
 
-## Display
+## Interface
 
-  - Interface
+  - All Pages
     
-![Display](https://raw.githubusercontent.com/luqmanherifa/luqman-herifa-personal-portfolio-v2/main/public/works/motocraft.png)
+![Interface](https://raw.githubusercontent.com/luqmanherifa/luqman-herifa-personal-portfolio-v2/main/public/works/motocraft.png)
 
   - Home
     
-![Display](https://raw.githubusercontent.com/luqmanherifa/luqman-herifa-personal-portfolio-v2/main/public/works/detail/motocrat01.png)
+![Interface](https://raw.githubusercontent.com/luqmanherifa/luqman-herifa-personal-portfolio-v2/main/public/works/detail/motocrat01.png)
 
   - Pages
     
-![Display](https://raw.githubusercontent.com/luqmanherifa/luqman-herifa-personal-portfolio-v2/main/public/works/detail/motocrat02.png)
+![Interface](https://raw.githubusercontent.com/luqmanherifa/luqman-herifa-personal-portfolio-v2/main/public/works/detail/motocrat02.png)
 
   - Dashboard
     
-![Display](https://raw.githubusercontent.com/luqmanherifa/luqman-herifa-personal-portfolio-v2/main/public/works/detail/motocrat03.png)
+![Interface](https://raw.githubusercontent.com/luqmanherifa/luqman-herifa-personal-portfolio-v2/main/public/works/detail/motocrat03.png)
 
   - Mobile
     
-![Display](https://raw.githubusercontent.com/luqmanherifa/luqman-herifa-personal-portfolio-v2/main/public/works/detail/motocrat04.png)
+![Interface](https://raw.githubusercontent.com/luqmanherifa/luqman-herifa-personal-portfolio-v2/main/public/works/detail/motocrat04.png)
 
 ## Software
 ### Languages
