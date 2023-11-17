@@ -10,19 +10,35 @@
 
   - Home
     
-![Interface](https://raw.githubusercontent.com/luqmanherifa/luqman-herifa-personal-portfolio-v2/main/public/works/detail/motocrat01.png)
+![Interface](https://raw.githubusercontent.com/luqmanherifa/luqman-herifa-personal-portfolio-v2/main/public/works/detail/motocraft01.png)
 
   - Pages
     
-![Interface](https://raw.githubusercontent.com/luqmanherifa/luqman-herifa-personal-portfolio-v2/main/public/works/detail/motocrat02.png)
+![Interface](https://raw.githubusercontent.com/luqmanherifa/luqman-herifa-personal-portfolio-v2/main/public/works/detail/motocraft02.png)
+
+  - Pages Detail
+    
+![Interface](https://raw.githubusercontent.com/luqmanherifa/luqman-herifa-personal-portfolio-v2/main/public/works/detail/motocraft03.png)
 
   - Dashboard
     
-![Interface](https://raw.githubusercontent.com/luqmanherifa/luqman-herifa-personal-portfolio-v2/main/public/works/detail/motocrat03.png)
+![Interface](https://raw.githubusercontent.com/luqmanherifa/luqman-herifa-personal-portfolio-v2/main/public/works/detail/motocraft04.png)
 
-  - Mobile
+  - Home Mobile
     
-![Interface](https://raw.githubusercontent.com/luqmanherifa/luqman-herifa-personal-portfolio-v2/main/public/works/detail/motocrat04.png)
+![Interface](https://raw.githubusercontent.com/luqmanherifa/luqman-herifa-personal-portfolio-v2/main/public/works/detail/motocraft05.png)
+
+  - Dashboard
+    
+![Interface](https://raw.githubusercontent.com/luqmanherifa/luqman-herifa-personal-portfolio-v2/main/public/works/detail/motocraft06.png)
+
+  - Dashboard Mobile
+    
+![Interface](https://raw.githubusercontent.com/luqmanherifa/luqman-herifa-personal-portfolio-v2/main/public/works/detail/motocraft07.png)
+
+  - Auth
+    
+![Interface](https://raw.githubusercontent.com/luqmanherifa/luqman-herifa-personal-portfolio-v2/main/public/works/detail/motocraft08.png)
 
 ## Software
 ### Languages
