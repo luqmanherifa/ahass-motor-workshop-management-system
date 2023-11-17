@@ -28,17 +28,13 @@
     
 ![Interface](https://raw.githubusercontent.com/luqmanherifa/luqman-herifa-personal-portfolio-v2/main/public/works/detail/motocraft05.png)
 
-  - Dashboard
+  - Dashboard Mobile
     
 ![Interface](https://raw.githubusercontent.com/luqmanherifa/luqman-herifa-personal-portfolio-v2/main/public/works/detail/motocraft06.png)
 
-  - Dashboard Mobile
-    
-![Interface](https://raw.githubusercontent.com/luqmanherifa/luqman-herifa-personal-portfolio-v2/main/public/works/detail/motocraft07.png)
-
   - Auth
     
-![Interface](https://raw.githubusercontent.com/luqmanherifa/luqman-herifa-personal-portfolio-v2/main/public/works/detail/motocraft08.png)
+![Interface](https://raw.githubusercontent.com/luqmanherifa/luqman-herifa-personal-portfolio-v2/main/public/works/detail/motocraft07.png)
 
 ## Software
 ### Languages
