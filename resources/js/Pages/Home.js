@@ -1,20 +1,20 @@
-import React from "react";
-import Navbar from "@/Layouts/Navbar";
-import Footer from "@/Layouts/Footer";
-import HomeHero from "@/Layouts/HomeHero";
-import HomePromo from "@/Layouts/Home/Promo/HomePromo";
+import Footer from "@/Layouts/Home/Footer";
 import HomeArtikel from "@/Layouts/Home/Artikel/HomeArtikel";
 import HomeJasa from "@/Layouts/Home/Jasa/HomeJasa";
+import HomePromo from "@/Layouts/Home/Promo/HomePromo";
 import HomeSukuCadang from "@/Layouts/Home/SukuCadang/HomeSukuCadang";
-import HomeGaleri from "@/Layouts/HomeGaleri";
-import HomeLokasi from "@/Layouts/HomeLokasi";
-import HomeKontak from "@/Layouts/HomeKontak";
+import HomeGaleri from "@/Layouts/Home/HomeGaleri";
+import HomeHero from "@/Layouts/Home/HomeHero";
+import HomeKontak from "@/Layouts/Home/HomeKontak";
+import HomeLokasi from "@/Layouts/Home/HomeLokasi";
+import Navbar from "@/Layouts/Home/Navbar";
+import React from "react";
 
 const Pages = ({ auth }) => {
     return (
         <div>
             <Navbar auth={auth} />
-            <HomeHero />
+            <HomeHero auth={auth} />
             <HomePromo />
             <HomeArtikel />
             <HomeJasa />
