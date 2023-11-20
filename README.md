@@ -36,7 +36,6 @@
     
 ![Interface](https://raw.githubusercontent.com/luqmanherifa/luqman-herifa-personal-portfolio-v2/main/public/works/detail/motocraft07.png)
 
-  - [Trailer](https://youtu.be/Zycy6pxrcNg)
 
 ## Software
 ### Languages
@@ -72,6 +71,9 @@
 ## Build
 ### Platform
   - Web
+
+### Deployment
+  - [YouTube](https://youtu.be/Zycy6pxrcNg)
 
 ### Responsive
   - Desktop
