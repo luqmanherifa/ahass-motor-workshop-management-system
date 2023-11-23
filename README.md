@@ -44,10 +44,12 @@ Motocraft is a motorcycle workshop management information system contains promo,
   - PHP
   - HTML/CSS
 
-### Libraries
+### Frameworks
   - React
   - Laravel
   - Tailwind CSS
+
+### Libraries
   - Flowbite
   - Inertia
 
