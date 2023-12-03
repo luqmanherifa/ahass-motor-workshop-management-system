@@ -4,39 +4,14 @@ Motocraft is a motorcycle workshop management information system contains promo,
 *Sorry, the complete code of the original repository is private. :(*
 
 ## Interface
-
-  - All Pages
-    
 ![Interface](https://raw.githubusercontent.com/luqmanherifa/luqman-herifa-personal-portfolio-v2/main/public/works/motocraft.png)
-
-  - Home
-    
 ![Interface](https://raw.githubusercontent.com/luqmanherifa/luqman-herifa-personal-portfolio-v2/main/public/works/detail/motocraft01.png)
-
-  - Pages
-    
-![Interface](https://raw.githubusercontent.com/luqmanherifa/luqman-herifa-personal-portfolio-v2/main/public/works/detail/motocraft02.png)
-
-  - Pages Detail
-    
-![Interface](https://raw.githubusercontent.com/luqmanherifa/luqman-herifa-personal-portfolio-v2/main/public/works/detail/motocraft03.png)
-
-  - Dashboard
-    
+![Interface](https://raw.githubusercontent.com/luqmanherifa/luqman-herifa-personal-portfolio-v2/main/public/works/detail/motocraft02.png)  
+![Interface](https://raw.githubusercontent.com/luqmanherifa/luqman-herifa-personal-portfolio-v2/main/public/works/detail/motocraft03.png)  
 ![Interface](https://raw.githubusercontent.com/luqmanherifa/luqman-herifa-personal-portfolio-v2/main/public/works/detail/motocraft04.png)
-
-  - Home Mobile
-    
-![Interface](https://raw.githubusercontent.com/luqmanherifa/luqman-herifa-personal-portfolio-v2/main/public/works/detail/motocraft05.png)
-
-  - Dashboard Mobile
-    
-![Interface](https://raw.githubusercontent.com/luqmanherifa/luqman-herifa-personal-portfolio-v2/main/public/works/detail/motocraft06.png)
-
-  - Auth
-    
+![Interface](https://raw.githubusercontent.com/luqmanherifa/luqman-herifa-personal-portfolio-v2/main/public/works/detail/motocraft05.png)  
+![Interface](https://raw.githubusercontent.com/luqmanherifa/luqman-herifa-personal-portfolio-v2/main/public/works/detail/motocraft06.png) 
 ![Interface](https://raw.githubusercontent.com/luqmanherifa/luqman-herifa-personal-portfolio-v2/main/public/works/detail/motocraft07.png)
-
 
 ## Software
 ### Languages
