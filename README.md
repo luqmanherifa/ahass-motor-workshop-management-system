@@ -50,7 +50,7 @@ Motocraft is a motorcycle workshop management information system contains promo,
 ### Platform
   - Web
 
-### Deployment
+### Live
   - [YouTube](https://youtu.be/Zycy6pxrcNg)
 
 ### Responsive
