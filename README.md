@@ -1,5 +1,5 @@
 # AHASS Motor: Workshop Management System
-AHASS Motor is a motorcycle workshop management information system contains promo, article, services, spare parts, and other features based on web. The project was developed for motorcycle workshop MIS using React, Laravel, Tailwind CSS, MySQL, and others.
+AHASS Motor: Workshop Management System is a motorcycle workshop management information system that contains promo, article, services, spare parts, and other web-based features. The project was developed for motorcycle workshop MIS using React, Laravel, Tailwind CSS, MySQL, and others.
 
 ## Interface
 ![Interface](https://raw.githubusercontent.com/luqmanherifa/luqman-herifa-personal-portfolio-v2/main/public/works/motocraft.png)
